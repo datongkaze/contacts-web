@@ -2,7 +2,7 @@
  * @Author: kevinZhang
  * @Date: 2022-02-10 17:53:37
  * @LastEditors: kevinZhang
- * @LastEditTime: 2022-02-11 05:40:27
+ * @LastEditTime: 2022-02-11 05:42:47
  * @FilePath: /contacts-web/README.md
 -->
 # contacts-web
@@ -31,7 +31,7 @@
 ## Requirements
 
 - 考虑模块化 
-    项目基于前端模块化编写，在组件以及通用的方法上都有体现，但仍有优化，解耦的空间。
+    - 项目基于前端模块化编写，在组件以及通用的方法上都有体现，但仍有优化，解耦的空间。
 - 考虑性能问题 
     性能的优化体现在：
         1、加载数据过程中的骨架屏，给用户提供良好的体验；
