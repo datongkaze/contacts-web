@@ -1,0 +1,41 @@
+{
+  "name": "contacts-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss7-compat": "^2.2.17",
+    "autoprefixer": "^9",
+    "axios": "^0.25.0",
+    "compression-webpack-plugin": "5.0.1",
+    "core-js": "^3.6.5",
+    "dayjs": "^1.10.7",
+    "mockjs": "^1.1.0",
+    "node-sass": "^4.12.0",
+    "postcss": "^7",
+    "progress-bar-webpack-plugin": "^2.1.0",
+    "sass-loader": "^10",
+    "sass-resources-loader": "^2.2.4",
+    "skeleton-loader-vue": "^1.0.10",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
+    "vue": "^2.6.11",
+    "vue-ls": "^4.1.0",
+    "vue-router": "^3.5.3",
+    "vue-virtual-scroller": "^1.0.10"
+  },
+  "devDependencies": {
+    "@types/tailwindcss": "^3.0.2",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-cli-plugin-tailwind": "~2.2.18",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
