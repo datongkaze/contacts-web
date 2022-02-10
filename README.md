@@ -8,8 +8,8 @@
 # contacts-web
 实现一个 Web 版通讯录功能
 
-## Examples
-[Examples](https://contacts-web.vercel.app/#/)
+## Demo
+[Demo](https://contacts-web.vercel.app/#/)
 
 ## Features
 
