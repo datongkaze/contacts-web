@@ -1,13 +1,13 @@
 <!--
- * @Author: your name
- * @Date: 2022-01-20 10:37:16
- * @LastEditTime: 2022-02-10 21:01:23
+ * @Author: kevinZhang
+ * @Date: 2022-02-10 17:53:36
  * @LastEditors: kevinZhang
- * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @LastEditTime: 2022-02-11 09:06:43
  * @FilePath: /contacts-web/src/App.vue
 -->
+
 <template>
-  <div id="app" class="flex justify-center lg:w-1/2 xs:w-4/5 sm:w-4/6  w-full h-full bg-gray-50">
+  <div id="app" class="flex justify-center w-full h-full lg:w-1/2 xs:w-4/5 sm:w-4/6 bg-gray-50">
     <router-view></router-view>
   </div>
 </template>

@@ -1,11 +1,11 @@
 /*
- * @Author: your name
- * @Date: 2020-04-27 10:13:18
- * @LastEditTime: 2021-08-26 14:40:01
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \vue-admin\src\utils\validate.js
+ * @Author: kevinZhang
+ * @Date: 2022-02-10 18:46:52
+ * @LastEditors: kevinZhang
+ * @LastEditTime: 2022-02-11 09:07:16
+ * @FilePath: /contacts-web/src/utils/validate.js
  */
+
 export function isFile (obj) {
   return Object.prototype.toString.call(obj) === '[object File]';
 }

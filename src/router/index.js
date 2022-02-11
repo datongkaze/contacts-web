@@ -1,11 +1,11 @@
 /*
- * @Author: your name
- * @Date: 2019-09-05 13:35:02
- * @LastEditTime: 2022-01-26 09:02:48
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: /vue-admin_dev/src/router/index.js
+ * @Author: kevinZhang
+ * @Date: 2022-02-10 19:46:09
+ * @LastEditors: kevinZhang
+ * @LastEditTime: 2022-02-11 09:07:26
+ * @FilePath: /contacts-web/src/router/index.js
  */
+
 import Vue from 'vue';
 import Router from 'vue-router';
 import routes from './routers.js';
