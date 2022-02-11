@@ -2,7 +2,7 @@
  * @Author: kevinZhang
  * @Date: 2022-02-10 17:53:37
  * @LastEditors: kevinZhang
- * @LastEditTime: 2022-02-11 05:45:00
+ * @LastEditTime: 2022-02-11 09:22:44
  * @FilePath: /contacts-web/README.md
 -->
 # contacts-web
@@ -37,6 +37,7 @@
         - 1、加载数据过程中的骨架屏，给用户提供良好的体验；
         - 2、加载数据完成后，考虑到懒加载对长列表的体验以及跳转功能的影响，包括DOM节点多导致的滚动不流畅，故采用虚拟渲染的方式做处理；
         - 3、现数据由mock获得，后期有接口的加持，会获得进一步的优化。
+        - 4、基于用户首字母的查询涉及DOM的滚动，在这里还做了一个节流
 
 ## Project setup
 ```
